@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    //AllColor
+    <color name="Black">#FF000000</color>
+    <color name="White">#FFFFFFFF</color>
+    <color name="Red">#FFFF0000</color>
+    <color name="BrightGreen">#FF00FF00</color>
+    <color name="Blue">#FF0000FF</color>
+    <color name="Yellow">#FFFFFF00</color>
+    <color name="Pink">#FFFF00FF</color>
+    <color name="Turquoise">#FF00FFFF</color>
+    <color name="DarkRed">#FF800000</color>
+    <color name="Green">#FF008000</color>
+    <color name="DarkBlue">#FF000080</color>
+    <color name="DarkYellow">#FF808000</color>
+    <color name="Violet">#FF800080</color>
+    <color name="Teal">#FF008080</color>
+    <color name="Gray25">#FFC0C0C0</color>
+    <color name="Gray50">#FF808080</color>
+    <color name="Periwinkle">#FF9999FF</color>
+    <color name="Plum">#FF993366</color>
+    <color name="Ivory">#FFFFFFCC</color>
+    <color name="LightTurquoise">#FFCCFFFF</color>
+    <color name="DarkPurple">#FF660066</color>
+    <color name="Coral">#FFFF8080</color>
+    <color name="OceanBlue">#FF0066CC</color>
+    <color name="IceBlue">#FFCCCCFF</color>
+    <color name="SkyBlue">#FF00CCFF</color>
+    <color name="LightGreen">#FFCCFFCC</color>
+    <color name="LightYellow">#FFFFFF99</color>
+    <color name="PaleBlue">#FF99CCFF</color>
+    <color name="Rose">#FFFF99CC</color>
+    <color name="Lavender">#FFCC99FF</color>
+    <color name="Tan">#FFFFCC99</color>
+    <color name="LightBlue">#FF3366FF</color>
+    <color name="Aqua">#FF33CCCC</color>
+    <color name="Lime">#FF99CC00</color>
+    <color name="Gold">#FFFFCC00</color>
+    <color name="LightOrange">#FFFF9900</color>
+    <color name="Orange">#FFFF6600</color>
+    <color name="BlueGray">#FF666699</color>
+    <color name="Gray40">#FF969696</color>
+    <color name="DarkTeal">#FF003366</color>
+    <color name="SeaGreen">#FF339966</color>
+    <color name="DarkGreen">#FF003300</color>
+    <color name="OliveGreen">#FF333300</color>
+    <color name="Brown">#FF993300</color>
+    <color name="Indigo">#FF333399</color>
+    <color name="Gray80">#FF333333</color>
+
+</resources>
