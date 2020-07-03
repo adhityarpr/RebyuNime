@@ -14,6 +14,15 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+/*  Nama : Adhitya Rizqy Pratama
+    Nim : 10117134
+    Kelas : AKB-4/IF-4
+
+    Tanggal : 1 Juni 2020
+    Waktu : 20.48
+    Selesai Mengerjakan Walkthrough
+ */
+
 public class OnBoarding extends AppCompatActivity {
     //Variables
     ViewPager viewPager;
